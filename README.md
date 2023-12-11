@@ -1,4 +1,4 @@
-# Product Price Prediction using Machine Learning
+# Product Prices Prediction using Machine Learning
 
 This projects presents the EDA (Exploratory data analysis) and prediction of product prices from Amazon USA dataset.
 
